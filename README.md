@@ -7,7 +7,7 @@
 
 ### YouTube Channel
 
-Visit the [YouTube channel](https://www.youtube.com/channel/UCJn69C6UL66HJW-42uhk88g/) for tutorials, updates, software and tech discussions, commentary on the current stat-of-the-art in quantum machine learning, and more!
+Visit the [YouTube channel](https://www.youtube.com/channel/UCJn69C6UL66HJW-42uhk88g/) for tutorials, updates, software and tech discussions, commentary on the current state-of-the-art in quantum machine learning, and more!
 
 <iframe src="https://giphy.com/embed/7NS9RAepPQ0HJ85qJz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/after-effects-tao-trapcodetao-7NS9RAepPQ0HJ85qJz">via GIPHY</a></p>
 
