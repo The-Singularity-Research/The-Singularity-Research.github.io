@@ -16,7 +16,7 @@ Visit the [YouTube channel](https://www.youtube.com/channel/UCJn69C6UL66HJW-42uh
 Join us on Slack to be part of the conversation, ask questions, and discuss quantum machine learning topics with others! Find out what others are working on, stay up to date on usage of software like 
 - [Penny Lane](https://pennylane.ai/)
 - [Microsoft's Q#](https://docs.microsoft.com/en-us/quantum/language/?view=qsharp-preview)
-- [Google's Circq](https://cirq.readthedocs.io/en/latest/circuits.html)
+- [Google's Cirq](https://cirq.readthedocs.io/en/latest/circuits.html)
 - [IBM's Qiskit](https://qiskit.org/)
 - [TensorFlow](https://www.tensorflow.org/install)
 - [neo4j](neo4j.com), [Grakn](Grakn.ai)
