@@ -30,3 +30,6 @@ Join us on Slack to be part of the conversation, ask questions, and discuss quan
 - [Graphviz](graphviz.org) 
 and many others!
 
+### Website
+
+Checkout the [website](https://thesingularityrese.wixsite.com/singularity).
