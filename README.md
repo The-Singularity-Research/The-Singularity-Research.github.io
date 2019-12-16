@@ -1,10 +1,8 @@
-# The Singularity
+## Welcome to The Singularity
 ---
-### Quantum Enhanced AI
+### What is... Quantum Machine Learning?
 
-You can use the [editor on GitHub](https://github.com/The-Singularity-Research/Tutorials/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Quantum machine** learning combines the power of [quantum computing](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/) with [Machine Learning](https://developers.google.com/machine-learning/crash-course) and [AI](https://ai.google/education/) to build *quantum enhanced AI* that can perform tasks previously thought to be impossible impossible. 
 
 ### Markdown
 
