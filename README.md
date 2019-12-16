@@ -2,7 +2,7 @@
 ---
 ### What is... Quantum Machine Learning?
 
-**Quantum machine** learning combines the power of [quantum computing](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/) with [Machine Learning](https://developers.google.com/machine-learning/crash-course) and [AI](https://ai.google/education/) to build *quantum enhanced AI* that can perform tasks previously thought to be impossible impossible. 
+**Quantum machine learning** combines the power of [quantum computing](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/) with [Machine Learning](https://developers.google.com/machine-learning/crash-course) and [AI](https://ai.google/education/) to build *quantum enhanced AI* that can perform tasks previously thought to be impossible impossible. 
 
 ### Markdown
 
