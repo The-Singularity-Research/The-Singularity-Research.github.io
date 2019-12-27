@@ -7,10 +7,10 @@
 ---
 ### Tutorials
 
--[FinTech and Time Series Tutorials](https://github.com/The-Singularity-Research/FinTech-Time-Series)
--[Quimb Tensor Networks Tutorials](https://github.com/The-Singularity-Research/Quimb-Tutorials)
--[Single Cubit Universal Binary Vlassifier Tutorials](https://github.com/The-Singularity-Research/universal-classifier)
--[Google TensorNetwork Library Tutorials](https://github.com/The-Singularity-Research/TensorNetwork-Tutorial)
+- [FinTech and Time Series Tutorials](https://github.com/The-Singularity-Research/FinTech-Time-Series)
+- [Quimb Tensor Networks Tutorials](https://github.com/The-Singularity-Research/Quimb-Tutorials)
+- [Single Cubit Universal Binary Vlassifier Tutorials](https://github.com/The-Singularity-Research/universal-classifier)
+- [Google TensorNetwork Library Tutorials](https://github.com/The-Singularity-Research/TensorNetwork-Tutorial)
 
 ---
 
