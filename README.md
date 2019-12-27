@@ -4,6 +4,16 @@
 
 **Quantum machine learning** combines the power of [quantum computing](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/) with [Machine Learning](https://developers.google.com/machine-learning/crash-course) and [AI](https://ai.google/education/) to build *quantum enhanced AI* that can perform tasks previously thought to be impossible.
 
+---
+### Tutorials
+
+-[FinTech and Time Series Tutorials](https://github.com/The-Singularity-Research/FinTech-Time-Series)
+-[Quimb Tensor Networks Tutorials](https://github.com/The-Singularity-Research/Quimb-Tutorials)
+-[Single Cubit Universal Binary Vlassifier Tutorials](https://github.com/The-Singularity-Research/universal-classifier)
+-[Google TensorNetwork Library Tutorials](https://github.com/The-Singularity-Research/TensorNetwork-Tutorial)
+
+---
+
 ### Website
 Check out the [website](https://thesingularityrese.wixsite.com/singularity/hacking-the-universe) for more tools on hacking the universe!
 
