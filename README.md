@@ -37,6 +37,7 @@ Join us on Slack to be part of the conversation, ask questions, and discuss quan
 - [NetworkX](https://networkx.github.io/)
 - [DeepMind's GraphNets](https://github.com/deepmind/graph_nets)
 - [Tensor Network](https://github.com/google/TensorNetwork)
+- [Quimb](https://quimb.readthedocs.io/en/latest/index.html)
 - [Scikit-Learn](https://scikit-learn.org/stable/)
 - [PECOS](https://quantum-pecos.readthedocs.io/en/latest/)
 - [Cytoscape](https://cytoscape.org/)
