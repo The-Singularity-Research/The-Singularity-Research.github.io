@@ -10,7 +10,7 @@
 - [Qubit Rotation Tutorials](https://github.com/The-Singularity-Research/Video1-Qubit-Rotation)
 - [FinTech and Time Series Tutorials](https://github.com/The-Singularity-Research/FinTech-Time-Series)
 - [Quimb Tensor Networks Tutorials](https://github.com/The-Singularity-Research/Quimb-Tutorials)
-- [Single Cubit Universal Binary Classifier Tutorials](https://github.com/The-Singularity-Research/universal-classifier)
+- [Single Qubit Universal Binary Classifier Tutorials](https://github.com/The-Singularity-Research/universal-classifier)
 - [Google TensorNetwork Library Tutorials](https://github.com/The-Singularity-Research/TensorNetwork-Tutorial)
 
 ---
