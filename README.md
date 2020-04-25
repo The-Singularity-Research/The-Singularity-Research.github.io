@@ -5,6 +5,11 @@
 **Quantum machine learning** combines the power of [quantum computing](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/) with [Machine Learning](https://developers.google.com/machine-learning/crash-course) and [AI](https://ai.google/education/) to build *quantum enhanced AI* that can perform tasks previously thought to be impossible.
 
 ---
+### Check out the first course!
+[Linear Algebra for Quantum Computing](https://the-singularity-research.github.io/linear_algebra_for_quantum_computing/)
+This course is a series of 10 lectures that cover all of the mathematics and programming you will need to dive into quantum computing. If you don't have a strong background in mathematics and programming, this is for you! If you do, then you are ahead of the game. There will still be some useful material in these lectures as basic concepts like state vectors, quantum gates, quantum circuits, and using some of the quantum programming languages are introduced. Exercises are given with every lecture and everything is implemented in Python. The lectures can be opened in Binder links so that everything can be done in an interactive notebook online, without having to download anything!
+
+---
 ### Check out Some of the Tutorials!
 
 - [Quantum Cryptography with Graph States](https://github.com/The-Singularity-Research/graph-state-quantum-cryptography)
