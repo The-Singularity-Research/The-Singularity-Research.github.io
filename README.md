@@ -12,6 +12,7 @@ This course is a series of 10 lectures that cover all of the mathematics and pro
 ---
 ### Check out Some of the Tutorials!
 
+- [Quantum Circuit Diagrams](https://the-singularity-research.github.io/circuit_diagram/)
 - [Quantum Cryptography with Graph States](https://github.com/The-Singularity-Research/graph-state-quantum-cryptography)
 - [FinTech and Time Series Tutorials](https://github.com/The-Singularity-Research/FinTech-Time-Series)
 - [Entanglement](https://github.com/The-Singularity-Research/entanglement)
