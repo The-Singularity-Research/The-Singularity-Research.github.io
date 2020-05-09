@@ -24,8 +24,6 @@ This course is a series of 10 lectures that cover all of the mathematics and pro
 - [FinTech and Time Series Tutorials](https://github.com/The-Singularity-Research/FinTech-Time-Series)
 - [Single Qubit Universal Binary Classifier Tutorials](https://github.com/The-Singularity-Research/universal-classifier)
 - [Google TensorNetwork Library Tutorials](https://github.com/The-Singularity-Research/TensorNetwork-Tutorial)
-- [Quantum Circuit Diagrams](https://github.com/The-Singularity-Research/quantum-circuit-diagrams)
-
 
 ---
 
