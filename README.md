@@ -12,15 +12,20 @@ This course is a series of 10 lectures that cover all of the mathematics and pro
 ---
 ### Check out Some of the Tutorials!
 
+- [Linear Algebra for Quantum Computing](https://the-singularity-research.github.io/linear_algebra_for_quantum_computing/)
 - [Quantum Circuit Diagrams](https://the-singularity-research.github.io/circuit_diagram/)
-- [Quantum Cryptography with Graph States](https://github.com/The-Singularity-Research/graph-state-quantum-cryptography)
-- [FinTech and Time Series Tutorials](https://github.com/The-Singularity-Research/FinTech-Time-Series)
+- [Measurement](https://the-singularity-research.github.io/measurement/)
 - [Entanglement](https://github.com/The-Singularity-Research/entanglement)
+- [Error Correction](https://github.com/The-Singularity-Research/error-correction)
+- [Quantum Cryptography with Graph States](https://github.com/The-Singularity-Research/graph-state-quantum-cryptography)
+- [Quantum Fourier Transform](https://github.com/The-Singularity-Research/quantum-fourier-transform)
+- [Density Operators](https://the-singularity-research.github.io/density_operators/)
+- [Entropy](https://github.com/The-Singularity-Research/entropy)
+- [FinTech and Time Series Tutorials](https://github.com/The-Singularity-Research/FinTech-Time-Series)
 - [Single Qubit Universal Binary Classifier Tutorials](https://github.com/The-Singularity-Research/universal-classifier)
 - [Google TensorNetwork Library Tutorials](https://github.com/The-Singularity-Research/TensorNetwork-Tutorial)
-- [Error Correction](https://github.com/The-Singularity-Research/error-correction)
 - [Quantum Circuit Diagrams](https://github.com/The-Singularity-Research/quantum-circuit-diagrams)
-- [Quantum Fourier Transform](https://github.com/The-Singularity-Research/quantum-fourier-transform)
+
 
 ---
 
