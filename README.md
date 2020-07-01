@@ -29,8 +29,17 @@ This course is a series of 10 lectures that cover all of the mathematics and pro
 ---
 ### Software
 
-- [Surface Codes in Qiskit](https://github.com/The-Singularity-Research/QISKit-Surface-Codes)
-- [Graph States in Qiskit](https://github.com/The-Singularity-Research/QISKit-Graph-States)
+#### Surface Codes for Quantum Error Correction
+
+- [Surface Codes for Quantum Error Correction](https://github.com/The-Singularity-Research/SurfaceCodes)
+
+Surface Codes are one way of performing error correction for quantum computers. They are also used for modeling lattice gauge theories, topological order, quantum phase transitions, Yang-Mills Theory, and various mathematical problems such as the Generalized Riemann Hypothesis. 
+
+#### Graph States
+
+- [Graph States](https://github.com/The-Singularity-Research/Graph-States)
+
+Graph states are usef for Measurement Based Quantum Computing, Quantum Cryptography, Stabilizer Codes, Studying Entanglement and Entropy, and modeling Ising interactions, among other things. 
 
 ---
 
